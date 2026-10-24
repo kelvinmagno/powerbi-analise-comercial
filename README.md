@@ -57,9 +57,11 @@ O exercício reúne práticas de organização de indicadores, escolha de gráfi
 
 ## Visualização e interatividade
 
-A documentação inicial foi preparada a partir de uma exportação em PDF do dashboard. O PDF e as imagens são visualizações estáticas: filtros, navegação e demais interações dependem do relatório original.
+**[Visualizar o dashboard em PDF](./Livro%20-cap.5Desenvolvimento%20de%20Dashboards.pdf)**
 
-Os arquivos do dashboard e o link de acesso à versão interativa ainda não foram adicionados a este repositório.
+O PDF contém as três páginas do dashboard e permite consultar os indicadores e gráficos. É uma visualização estática: filtros, navegação e demais interações dependem do relatório original.
+
+O arquivo `.pbix` e o link de acesso à versão interativa ainda não foram adicionados a este repositório.
 
 ## Fonte dos dados e créditos
 
